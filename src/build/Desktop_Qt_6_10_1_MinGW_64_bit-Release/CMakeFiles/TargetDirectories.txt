@@ -1,0 +1,3 @@
+C:/Users/Marza/Projects/Coding/Snatchforce Calc 2/build/Desktop_Qt_6_10_1_MinGW_64_bit-Release/CMakeFiles/SnatchforceGUI.dir
+C:/Users/Marza/Projects/Coding/Snatchforce Calc 2/build/Desktop_Qt_6_10_1_MinGW_64_bit-Release/CMakeFiles/edit_cache.dir
+C:/Users/Marza/Projects/Coding/Snatchforce Calc 2/build/Desktop_Qt_6_10_1_MinGW_64_bit-Release/CMakeFiles/rebuild_cache.dir

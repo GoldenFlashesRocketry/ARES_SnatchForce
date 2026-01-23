@@ -1,0 +1,1 @@
+To install the program, extract the zip folder "Snatchfore Calculator Program.zip" to somewhere on your device, go into the extracted folder, find "SnatchforceGUI.exe" run that, and the program should open. 

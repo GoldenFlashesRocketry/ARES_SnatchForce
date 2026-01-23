@@ -1,0 +1,7 @@
+# ninja log v6
+23	363	7866534663062591	CMakeFiles/SnatchforceGUI.dir/snatchforce_core.cpp.obj	4b40ebacb5795930
+19	1713	7866534663062591	CMakeFiles/SnatchforceGUI.dir/main.cpp.obj	45b915085e800019
+1713	1818	7866534680082237	SnatchforceGUI.exe	3792198700b433fb
+24	266	7866539256882476	CMakeFiles/SnatchforceGUI.dir/snatchforce_core.cpp.obj	b54afbd3d4093cf5
+19	1714	7866539256831481	CMakeFiles/SnatchforceGUI.dir/main.cpp.obj	e0ac17aa7297d830
+1714	1818	7866539273786229	SnatchforceGUI.exe	bbee65a72a2bd4cf
